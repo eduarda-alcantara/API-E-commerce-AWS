@@ -1,7 +1,7 @@
 # Companhia dos Orgânicos - API E-commerce AWS
 ## Plataforma de compra e venda
 
-[[https://github.com/eduarda-alcantara/API-E-commerce-AWS/blob/main/Gif%20Inicial/api%20gif.gif]]
+![GIF](https://github.com/eduarda-alcantara/API-E-commerce-AWS/blob/main/Gif%20Inicial/api%20gif.gif)
 
 Projeto desenvolvido no Centro Universitário Una, para a UC de Sistemas Distribuidos e Mobile.
 
