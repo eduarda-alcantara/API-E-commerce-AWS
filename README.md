@@ -1,6 +1,6 @@
 # Companhia dos Orgânicos 
-## Plataforma de compra e venda
-### E-commerce e API implementado na AWS
+### Plataforma de compra e venda
+#### E-commerce e API implementado na AWS
 
 ![GIF](https://github.com/eduarda-alcantara/API-E-commerce-AWS/blob/main/Gif%20Inicial/api%20gif.gif)
 
